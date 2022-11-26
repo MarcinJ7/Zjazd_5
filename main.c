@@ -35,12 +35,12 @@ int main(int argc, char* argv[])
 			wiersze++;
 		}
 	}
-	printf("Ilosc malych liter: %d\n", male_litery);
-	printf("Ilosc wielkich liter: %d\n", duze_litery);
-	printf("Ilosc cyfr: %d\n", cyfry);
-	printf("Ilosc bialych znakow: %d\n", biale_znaki);
-	printf("Ilosc wierszy: %d\n", wiersze);
-	printf("Ilosc wszytkich znakow: %li\n", wszystkie_znaki);
+	printf("Liczba malych liter: %d\n", male_litery);
+	printf("Liczba wielkich liter: %d\n", duze_litery);
+	printf("Liczba cyfr: %d\n", cyfry);
+	printf("Liczba bialych znakow: %d\n", biale_znaki);
+	printf("Liczba wierszy: %d\n", wiersze);
+	printf("Liczba wszytkich znakow: %li\n", wszystkie_znaki);
 	system("PAUSE");
 	return 0;
 }
